@@ -1,4 +1,4 @@
-# Code and scripts for the aligner paper: 
+# Code and scripts for: 
 ## The fractured landscape of RNA-seq alignment: The default in our STARs 
 
 
