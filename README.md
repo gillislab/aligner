@@ -14,4 +14,4 @@ Available here:
 https://github.com/sarbal/aupairwise
 
 
-![summary](https://github.com/sarbal/AuPairWise/blob/master/imgs/icefloe.png "summary")
+![summary](https://github.com/sarbal/aligner/blob/master/imgs/icefloe.png "summary")
