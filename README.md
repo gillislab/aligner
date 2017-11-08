@@ -13,3 +13,5 @@ https://github.com/alexdobin/STAR
 Available here: 
 https://github.com/sarbal/aupairwise
 
+
+![summary](https://github.com/sarbal/aligner/blob/master/imgs/icefloe.png "summary")
