@@ -11,7 +11,7 @@ https://github.com/alexdobin/STAR
 # The assesor: 
 ## AuPairWise
 Available here: 
-https://github.com/sarbal/aupairwise
+https://github.com/gillislab/aupairwise
 
 
 ![summary](https://github.com/sarbal/aligner/blob/master/imgs/icefloe.png "summary")
